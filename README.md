@@ -17,6 +17,7 @@ Create a clean and responsive card layout that displays:
 - Defining and using **CSS root variables** (`:root`)
 - Applying basic **responsive design principles**
 - Structuring HTML semantically
+- Using BEM Convention
 
 ## 💡 Features
 
